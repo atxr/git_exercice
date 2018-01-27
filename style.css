@@ -1,0 +1,18 @@
+body
+{
+	background-color: grey;
+	opacity: 0.4;
+	font-family: Courier;
+}
+
+h1
+{
+	text-decoration: underline;
+	color: orange;
+	font-size: 1.8em;
+}
+
+p
+{
+	font-size:1.2em;
+}
